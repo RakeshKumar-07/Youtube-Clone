@@ -1,13 +1,22 @@
-# Getting Started with Create React App
+# Youtube-Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Made using:- \
+  React
+  MUI
+  RapidAPI
 
 ## How to Start
 
 Place your REACT_APP_RAPID_API_KEY in src/utils/fetchFromAPI.js.\
 Run the following commands:-
-### `npm install`
-### `npm start`
+```
+npm install
+npm start
+```
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
