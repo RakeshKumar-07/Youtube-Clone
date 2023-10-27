@@ -1,6 +1,6 @@
 # Youtube-Clone
 
-View the website here [UTube](https://653bbeb0c822a25b87c4e058--starlit-froyo-f2faf4.netlify.app/).\
+View the website here [UTube](https://653bbeb0c822a25b87c4e058--starlit-froyo-f2faf4.netlify.app/).
 
 Made using:-
   - React
