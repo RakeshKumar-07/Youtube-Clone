@@ -1,9 +1,9 @@
 # Youtube-Clone
 
 Made using:- \
-  React
-  MUI
-  RapidAPI
+  - React
+  - MUI
+  - RapidAPI
 
 ## How to Start
 
