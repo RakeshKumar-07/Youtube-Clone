@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to Start
+
+Place your REACT_APP_RAPID_API_KEY in src/utils/fetchFromAPI.js
+Run the following commands:-
+### `npm install`
+### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
