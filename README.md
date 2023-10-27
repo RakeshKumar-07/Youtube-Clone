@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to Start
 
-Place your REACT_APP_RAPID_API_KEY in src/utils/fetchFromAPI.js.
+Place your REACT_APP_RAPID_API_KEY in src/utils/fetchFromAPI.js.\
 Run the following commands:-
 ### `npm install`
 ### `npm start`
